@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
 a = ['salik','usaid','karan']
-print(a)
+print(*a)
